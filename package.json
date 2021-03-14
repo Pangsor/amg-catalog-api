@@ -1,0 +1,33 @@
+{
+  "name": "amg-katalog-api",
+  "version": "2.0.0",
+  "description": "amg katalog api",
+  "main": "amg-katalog-api.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node amg-katalog-api.js"
+  },
+  "author": "jafar pahrudin",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "hashmap": "^2.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.9.21",
+    "mongoose-legacy-pluralize": "^1.0.2",
+    "mongoose-transactions": "^1.1.4",
+    "nodemailer": "^6.4.11",
+    "nodemon": "^2.0.6",
+    "otp-generator": "^2.0.0",
+    "winston": "^3.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "jwtPrivateKey": "",
+  "db": "",
+  "userDb": "",
+  "passDb": "",
+  "nsiKey": "",
+  "encKey": "",
+  "emailSMTP": "",
+  "emailAdd": "",
+  "emailPas": "",
+  "emailUrl":""
+}

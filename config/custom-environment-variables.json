@@ -1,0 +1,12 @@
+{
+  "jwtPrivateKey": "akg_jwtPrivateKey",
+  "db": "akg_dataBase_akg",
+  "userDb": "akg_userDb_akg",
+  "passDb": "akg_passDb_akg",
+  "nsiKey": "akg_nsiKey_akg",
+  "encKey": "akg_encKey",
+  "emailSMTP": "akg_emailSMTP_akg",
+  "emailAdd": "akg_emailAdd_akg",
+  "emailPas": "akg_emailPas_akg",
+  "emailUrl": "akg_emailUrl_akg"
+}
